@@ -1,2 +1,5 @@
 # Projeto-mobile-iniciante
-Projeto mobile nos estágios iniciais contendo 4 telas.
+
+* Projeto mobile nos estágios iniciais 
+
+** 4 telas.
